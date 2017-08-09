@@ -1,0 +1,66 @@
+<html>
+<title> My Resume </title>
+<body background="ye.png" style="background-repeat:no repeat;">
+<table>
+<table align = "center" border = "5" cellpadding = "50" cellspacing = "5" >
+
+<caption> <h2> My Resume </h2> </caption>
+<tr>
+<th colspan = "4" align = "left"> <img src="we.jpg" height="180" width="120" align="right"> <br> <h2> Rain Cyrene V. Quitiol </h2> <br> Poblacion 1, Cotabato City <br> 09063036520 </th>
+
+</tr>
+<tr><td align = "left"> <b> PERSONAL BACKGROUND </b> <br> <br>
+Good in communication Arts. Knowledgeable in campus journalism. Hardworking, have a high <br> 
+sense of responsibility, Goal-Oriented, Creative, Resourceful, Fast learner and can <br>
+work under pressure. Has a background in competing on writing contests.<br>
+
+<br> <br> <b> PERSONAL INFORMATION: </b> <br> <br>
+
+<b> Birthday		: </b> April 26, 2001 <br>
+<b>Birthplace		:</b> Cotabato City <br>
+<b>Age			: </b>16 years old <br>
+<b>Sex			: </b>Female <br>
+<b>Civil Status		: </b>Single <br>
+<b>Religion		: </b>Christian <br>
+<b>Tribe		: </b>Cebuano	 <br>	
+<b>Citizenship		: </b>Filipino <br>
+<b>Home Address		: </b>Poblacion 1, Cotabato City <br>
+<b>Mother		: </b>Roshella V. Quitiol<br>
+<b>Father		: </b>Fernando Y. Quitiol<br>
+<b>Siblings		: </b>Cyrex Boy V. Quitiol, Cyrus Clyde V. Quitiol, Path Cyrell V. Quitiol<br> <br>
+<b> EDUCATION: </b> <br> <br>
+
+2017-  <br><br><b>NOTRE DAME RVM COLLEGE OF COTABATO</b> <br>
+				Science and Technology, Engeneering and Mathematics <br>
+				Sinsuat Avenue, Cotabato City
+<br><br>
+2013-2017	<br><br><b>	COTABATO CITY NATIONAL HIGH SCHOOL-MAIN CAMPUS</b> <br>
+				Sinsuat Avenue, Cotabato City
+<br><br>
+2005-2013 			<br><br><b>COTABATO CITY CENTRAL PILOT SCHOOL</b> <br>
+				Sinsuat Avenue, Cotabato City <br> <br>
+<b> PERSONALITIES: </b><br><br>
+Cheerful, Caring, Loving, Versatile, Friendly, Family-oriented<br><br>
+
+<b> SKILLS: </b> <br><br>
+
+<b> Journalism </b><br>
+Feature Writing, Essay Writing,  Broadcasting, Editorial Writing <br> <br>
+
+<b>Art </b><br>
+Painting, Poster Making, Slogan Making, Jingle Writing, Singing, Dancing <br> <br>
+
+<b> CARRER OBJECTIVE: </b><br><br>
+I want to engage in any careers related to medecine <br><br>
+
+<b> MOTTO: </b><br><br>
+"I can do all things through Him who strengthens me."
+
+
+</td>
+
+
+</table>
+</body>
+</head>
+</html>
